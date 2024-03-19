@@ -1,0 +1,1 @@
+Success!!! You have successfully logged in as {{ auth()->user()->name }}        
